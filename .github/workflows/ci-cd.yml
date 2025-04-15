@@ -118,5 +118,5 @@ jobs:
             sudo docker pull ${{ secrets.DOCKER_USERNAME }}/board-react-app:latest
             sudo docker pull ${{ secrets.DOCKER_USERNAME }}/board-spring-app:latest
             cd /home/ubuntu/project
-            sudo docker-compose -f poroject-compose.yml down
-            sudo docker-compose -f poroject-compose.yml up -d
+            sudo docker-compose -f project-compose.yml down
+            sudo docker-compose -f project-compose.yml up -d
