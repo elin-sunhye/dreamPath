@@ -122,6 +122,10 @@ mybatis:
 
 springdoc:
   override-with-generic-response: false
+  
+server:
+  forward-headers-strategy: native
+
 
 schedule:
   cron: 0 0 0 * * *
