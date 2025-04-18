@@ -1,5 +1,5 @@
 
-# 🌟 [DreamPath](https://dreampathpj.store/home){: target="_blank"} - Your Gateway to Success 🌟
+# 🌟 [DreamPath](https://dreampathpj.store/home) - Your Gateway to Success 🌟
 
 DreamPath는 개발자들의 취업 준비를 도와주고, 최고의 멘토링 경험을 제공하는 플랫폼입니다.  
 취업의 어려움을 극복하고, 꿈을 이루는 여정을 함께하세요!
